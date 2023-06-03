@@ -1,0 +1,18 @@
+{
+    "name": "assignment-3.12-cd-serverless",
+    "version": "1.0.0",
+    "description": "Assignment 3.12 - Continuous Deployment for Serverless",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest --forceExit"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.2"
+    },
+    "devDependencies": {
+      "jest": "^29.5.0",
+      "serverless-offline": "^12.0.4",
+      "supertest": "^6.3.3"
+    }
